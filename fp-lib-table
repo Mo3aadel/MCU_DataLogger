@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/mohamed.elmandouh/Desktop/KiCad_Projects/MCUDatalogger/Libraries/footprints")(options "")(descr ""))
+)
